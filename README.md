@@ -1,2 +1,2 @@
 # bitcoin_grabber
-Test slint for simple GUI +Rust
+Test slint for simple GUI + Rust
